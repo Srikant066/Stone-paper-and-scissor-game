@@ -9,7 +9,7 @@ w.configure(bg="light blue")
 CHOICES = ["Stone","Paper","Scissor"] 
 WIN_PAIRS = { 
     ("Stone", "Scissor"), 
-    ("Paper", "Stone"), 
+    ("Paper", "Stone"),
     ("Scissor", "Paper"),
 } 
 # defining all the functions 
